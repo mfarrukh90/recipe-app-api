@@ -5,5 +5,3 @@ exclude =
     __pychache__,
     manage.py
     settings.py
-    models.py
-    admin.py
